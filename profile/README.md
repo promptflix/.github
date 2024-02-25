@@ -23,4 +23,6 @@ Visit us at www.promptflix.app and start your cinematic adventure today!
 
 Follow us on social media for updates, inspiration, and behind-the-scenes peeks:
 
-Twitter: @promptFlix Lights, camera, AI action! 🎬🌟
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/promptflix)
+
+Lights, camera, AI action! 🎬🌟
