@@ -19,7 +19,7 @@ By joining PromptFlix, you become part of a vibrant community of filmmakers, AI 
 Start Creating Today! 🌟
 Experience the future of filmmaking with PromptFlix. Create captivating short films with the power of AI at your fingertips. Let your imagination run wild and embark on a journey where innovation meets storytelling.
 
-Visit us at www.promptflix.ca and start your cinematic adventure today!
+Visit us at www.promptflix.app and start your cinematic adventure today!
 
 Follow us on social media for updates, inspiration, and behind-the-scenes peeks:
 
